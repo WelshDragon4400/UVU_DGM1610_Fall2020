@@ -20,16 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Beagle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Beagle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Cookie.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Cookie.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Fox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Fox.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/White Chicken.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/White Chicken.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoveForward.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoveForward.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +39,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpawnManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DestroyOutofBounds1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/MoveForward.cs" />
         <option value="$PROJECT_DIR$/DestroyOutofBounds1.cs" />
+        <option value="$PROJECT_DIR$/MoveForward.cs" />
+        <option value="$PROJECT_DIR$/SpawnManager.cs" />
       </list>
     </option>
   </component>
@@ -77,7 +77,10 @@
       <updated>1600979876395</updated>
       <workItem from="1600979881368" duration="1783000" />
       <workItem from="1601332095828" duration="1164000" />
-      <workItem from="1601401214044" duration="1762000" />
+      <workItem from="1601401214044" duration="1969000" />
+      <workItem from="1601504721878" duration="397000" />
+      <workItem from="1601507728523" duration="464000" />
+      <workItem from="1601516883375" duration="1141000" />
     </task>
     <servers />
   </component>
