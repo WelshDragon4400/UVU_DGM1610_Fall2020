@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="" />
+    <list default="true" id="213e409b-958f-4f1e-80d4-4b3099bb9804" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Feed the Animals Prototype 2/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Feed the Animals Prototype 2/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,56 +33,44 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SpawnManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DestroyOutofBounds1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FollowPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/DestroyOutofBounds1.cs" />
-        <option value="$PROJECT_DIR$/MoveForward.cs" />
-        <option value="$PROJECT_DIR$/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/FollowPlayer.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1hyOTkysu1ddKrnOZCtKo1AWYej" />
+  <component name="ProjectId" id="1ifImyYUlAj9ZcCkLplsSUdmZF1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="" />
-      <created>1600979876395</created>
+      <changelist id="213e409b-958f-4f1e-80d4-4b3099bb9804" name="Default Changelist" comment="" />
+      <created>1602292385172</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600979876395</updated>
-      <workItem from="1600979881368" duration="1783000" />
-      <workItem from="1601332095828" duration="1164000" />
-      <workItem from="1601401214044" duration="1969000" />
-      <workItem from="1601504721878" duration="397000" />
-      <workItem from="1601507728523" duration="464000" />
-      <workItem from="1601516883375" duration="1199000" />
+      <updated>1602292385172</updated>
+      <workItem from="1602292390524" duration="2646000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -90,7 +82,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
