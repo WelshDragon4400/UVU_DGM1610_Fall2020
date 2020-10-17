@@ -509,8 +509,10 @@ MonoBehaviour:
   - {fileID: 1443818237822069929, guid: 0b657c0ab990841d6aae6bea201d5cf3, type: 3}
   - {fileID: 3498604311497891287, guid: f01fb71b8e6ab4ac2b74f448221dca4e, type: 3}
   animalIndex: 0
-  spawnRangeX: 20.5
+  spawnRangeX: 10
   spawnPosZ: 20.5
+  startDelay: 2
+  spawnInterval: 1
 --- !u!1 &992285705
 GameObject:
   m_ObjectHideFlags: 0

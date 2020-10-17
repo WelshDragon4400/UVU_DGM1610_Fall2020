@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="" />
+    <list default="true" id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Create with Code/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Create with Code/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Beagle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Beagle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Fox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Fox.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/TestCookieprefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/TestCookieprefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/White Chicken.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/White Chicken.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DestroyOutofBounds1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DestroyOutofBounds1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoveForward.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoveForward.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SpawnManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +49,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PlayerController.cs" />
-        <option value="$PROJECT_DIR$/DestroyOutofBounds1.cs" />
-        <option value="$PROJECT_DIR$/MoveForward.cs" />
         <option value="$PROJECT_DIR$/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/MoveForward.cs" />
+        <option value="$PROJECT_DIR$/DetectCollisions.cs" />
+        <option value="$PROJECT_DIR$/DestroyOutofBounds1.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +84,10 @@
       <workItem from="1601504721878" duration="397000" />
       <workItem from="1601507728523" duration="464000" />
       <workItem from="1601516883375" duration="1199000" />
+      <workItem from="1602367144100" duration="940000" />
+      <workItem from="1602393361768" duration="443000" />
+      <workItem from="1602892818031" duration="318000" />
+      <workItem from="1602893182377" duration="1190000" />
     </task>
     <servers />
   </component>
@@ -94,5 +110,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602892834643">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="607" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.978@0.23.1680.978" timestamp="1602892834643" />
   </component>
 </project>
