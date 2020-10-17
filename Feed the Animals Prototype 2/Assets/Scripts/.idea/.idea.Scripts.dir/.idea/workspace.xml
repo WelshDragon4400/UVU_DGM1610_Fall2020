@@ -19,18 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Create with Code/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Create with Code/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prefabs/Beagle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Beagle.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prefabs/Fox.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Fox.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prefabs/TestCookieprefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/TestCookieprefab.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prefabs/White Chicken.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/White Chicken.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/Prototype 2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DestroyOutofBounds1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DestroyOutofBounds1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoveForward.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoveForward.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SpawnManager.cs" afterDir="false" />
-    </list>
+    <list default="true" id="5bb0df4b-0961-488b-aea6-ff849e18c439" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +76,7 @@
       <workItem from="1602367144100" duration="940000" />
       <workItem from="1602393361768" duration="443000" />
       <workItem from="1602892818031" duration="318000" />
-      <workItem from="1602893182377" duration="1190000" />
+      <workItem from="1602893182377" duration="1280000" />
     </task>
     <servers />
   </component>
