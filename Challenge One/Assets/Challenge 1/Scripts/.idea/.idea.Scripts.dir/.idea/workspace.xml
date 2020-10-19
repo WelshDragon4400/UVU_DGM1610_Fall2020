@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="213e409b-958f-4f1e-80d4-4b3099bb9804" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9df5699f-e18b-4b68-8876-304610b0e3a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Create with Code/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Create with Code/Assets/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,21 +28,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PlayerControllerX.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpinPropellor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FollowPlayerX.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FollowPlayer.cs" />
-        <option value="$PROJECT_DIR$/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/FollowPlayerX.cs" />
+        <option value="$PROJECT_DIR$/PlayerControllerX.cs" />
+        <option value="$PROJECT_DIR$/SpinPropellor.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1ifImyYUlAj9ZcCkLplsSUdmZF1" />
+  <component name="ProjectId" id="1j6fFhtHClgg9kGRKXccZr1e7E5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,14 +58,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="213e409b-958f-4f1e-80d4-4b3099bb9804" name="Default Changelist" comment="" />
-      <created>1602292385172</created>
+      <changelist id="9df5699f-e18b-4b68-8876-304610b0e3a0" name="Default Changelist" comment="" />
+      <created>1603129361904</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602292385172</updated>
-      <workItem from="1602292390524" duration="2898000" />
-      <workItem from="1602895922618" duration="347000" />
-      <workItem from="1602968832119" duration="1198000" />
+      <updated>1603129361904</updated>
+      <workItem from="1603129368090" duration="4565000" />
+      <workItem from="1603141080400" duration="606000" />
     </task>
     <servers />
   </component>
@@ -82,7 +83,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
