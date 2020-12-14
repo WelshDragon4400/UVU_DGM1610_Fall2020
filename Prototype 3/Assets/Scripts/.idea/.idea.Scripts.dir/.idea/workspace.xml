@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c1e5b0d-f88f-416a-8a75-bb8b7d73c9d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Challenge Two/Assets/Challenge 2/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Challenge Two/Assets/Challenge 2/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c1e5b0d-f88f-416a-8a75-bb8b7d73c9d1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +68,7 @@
       <workItem from="1607636994212" duration="3001000" />
       <workItem from="1607719040373" duration="4483000" />
       <workItem from="1607727878728" duration="1733000" />
+      <workItem from="1607979818167" duration="252000" />
     </task>
     <servers />
   </component>
