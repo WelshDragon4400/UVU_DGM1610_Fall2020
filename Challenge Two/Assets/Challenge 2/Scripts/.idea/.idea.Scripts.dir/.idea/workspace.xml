@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1db88112-ce44-4bbb-a261-0df71f865af3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../Challenge One/Assets/Challenge 1/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Challenge One/Assets/Challenge 1/Scripts/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1db88112-ce44-4bbb-a261-0df71f865af3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +21,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DestroyOutOfBoundsX.cs" />
-        <option value="$PROJECT_DIR$/DetectCollisionsX.cs" />
         <option value="$PROJECT_DIR$/SpawnManagerX.cs" />
+        <option value="$PROJECT_DIR$/DetectCollisionsX.cs" />
       </list>
     </option>
   </component>
@@ -50,7 +48,7 @@
       <workItem from="1603225994081" duration="5256000" />
       <workItem from="1603938519715" duration="2665000" />
       <workItem from="1604613217625" duration="207000" />
-      <workItem from="1605210528221" duration="308000" />
+      <workItem from="1605210528221" duration="608000" />
     </task>
     <servers />
   </component>
