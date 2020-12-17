@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa6986c9-c1ee-4849-9c36-f3ce8f022ea5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Crafting Item.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Crafting Item.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Enemy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prefabs/Health.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../Prefabs/Health.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
@@ -71,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608060405933</updated>
-      <workItem from="1608060412383" duration="21157000" />
+      <workItem from="1608060412383" duration="26190000" />
     </task>
     <servers />
   </component>
