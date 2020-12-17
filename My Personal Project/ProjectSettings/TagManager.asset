@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Powerup
   - Item
+  - Sword
   layers:
   - Default
   - TransparentFX

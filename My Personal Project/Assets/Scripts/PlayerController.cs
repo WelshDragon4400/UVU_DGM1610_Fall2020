@@ -36,13 +36,9 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
         playerRB = GetComponent<Rigidbody>();
         gameOverText.gameObject.SetActive(false);
         youWinText.gameObject.SetActive(false);
-
-       // GameOver(); 
-        // UpdateHealth();
     }
 
     // Update is called once per frame
@@ -61,15 +57,7 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //if player hits an item
-       /* if (other.CompareTag("Powerup"))
-        {
-            //you have the powerup and the object is destroyed
-            hasPowerUp = true;
-            Debug.Log("PowerUp =" + hasPowerUp);
-            Destroy(other.gameObject);
-        }*/
-        
+
         if (other.CompareTag("Health"))
         {
             //you have the health and the object is destroyed
@@ -82,6 +70,7 @@ public class PlayerController : MonoBehaviour
             healthText.text = "Health: " + playerHealth;
             Debug.Log("Health =" + playerHealth);
         }
+        
         
         if (other.CompareTag("Item"))
         {
@@ -107,15 +96,6 @@ public class PlayerController : MonoBehaviour
             healthText.text = "Health: " + playerHealth;
             Debug.Log("Health =" + playerHealth);
         }
-
-        //if health is gone
-       /* if (playerHealth < 0.5f)
-        {
-            //game over
-            Debug.Log("Game Over!");
-            gameOverText.gameObject.SetActive(true);
-            Time.timeScale = 0;
-        }*/
     }
 
 
@@ -131,14 +111,8 @@ public class PlayerController : MonoBehaviour
 
             enemyRigidbody.AddForce(awayFromPlayer * bounce, ForceMode.Impulse);
         }
-
     }
-
-   /* void UpdateHealth(int scoreToAdd)
-    {
-        playerHealth += scoreToAdd;
-        healthText.text = "Health: " + playerHealth;
-    }*/
+    
    void GameOver()
    {
        //if health is gone
@@ -159,11 +133,9 @@ public class PlayerController : MonoBehaviour
        }
        
        if (itemCount < 10f)
-
        {
            youWinText.gameObject.SetActive(false);
        }
-
    }
 
 

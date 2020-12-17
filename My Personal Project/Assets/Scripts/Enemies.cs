@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Enemies : MonoBehaviour
 {
@@ -9,13 +10,21 @@ public class Enemies : MonoBehaviour
     private Rigidbody enemyRB;
     private GameObject player;
     public float distanceToChase = 10f;
-   
+
+	//health system
+    public float enemyHealth = 5f;
+
+   	//text
+    public TextMeshProUGUI healthTextE;
+
     
     // Start is called before the first frame update
     void Start()
     {
         enemyRB = GetComponent<Rigidbody>();
         player = GameObject.Find("Player");
+       // healthTextE.gameObject.SetActive(true);
+
     }
 
     // Update is called once per frame
@@ -28,4 +37,26 @@ public class Enemies : MonoBehaviour
            enemyRB.AddForce((player.transform.position - transform.position).normalized * speed);
        }
     }
+
+
+    private void OnTriggerEnter(Collider other)
+	{
+	//if hit sword
+        if (other.CompareTag("Sword"))
+        {
+            //display and update health count
+            Debug.Log("Stab: -0.5");
+            enemyHealth = enemyHealth - 1f;
+            
+            //update UI counter
+            healthTextE.text = "0" + enemyHealth;
+            //Debug.Log("Health =" + playerHealth);
+        }
+	//if health is gone
+       if (enemyHealth < 0.5f)
+       {
+           //destroy object
+           Destroy(gameObject);
+       }
+	}
 }
