@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa6986c9-c1ee-4849-9c36-f3ce8f022ea5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scripts.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enemies.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Enemies.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course Library/Fonts/Baloo_Chettan/BalooChettan-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Course Library/Fonts/Baloo_Chettan/BalooChettan-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course Library/Fonts/Exo_2/Exo2-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Course Library/Fonts/Exo_2/Exo2-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course Library/Fonts/Indie_Flower/IndieFlower SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Course Library/Fonts/Indie_Flower/IndieFlower SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course Library/Fonts/Margarine/Margarine-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Course Library/Fonts/Margarine/Margarine-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course Library/Fonts/Oswald/Oswald-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Course Library/Fonts/Oswald/Oswald-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Course Library/Fonts/Roboto/Roboto-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Course Library/Fonts/Roboto/Roboto-Regular SDF.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +37,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DetectPlayer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/FollowPlayer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RotateCamera.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Enemies.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -73,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608060405933</updated>
       <workItem from="1608060412383" duration="26358000" />
-      <workItem from="1608176853918" duration="1810000" />
+      <workItem from="1608176853918" duration="2366000" />
     </task>
     <servers />
   </component>
